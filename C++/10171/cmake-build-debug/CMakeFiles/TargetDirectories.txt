@@ -1,3 +1,0 @@
-/Users/ine/dev/algorithm/C++/10171/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ine/dev/algorithm/C++/10171/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ine/dev/algorithm/C++/10171/cmake-build-debug/CMakeFiles/10171.dir
